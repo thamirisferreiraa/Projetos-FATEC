@@ -24,7 +24,7 @@ Aqui você encontrará códigos escritos como parte das disciplinas da faculdade
 │   └── Cap6.c
 │   ├── 📁 1Prova/
 │   └── Desafio.c
-│   └── lsita.txt
+│   └── lista.txt
 ├── README.md
 
 Cada pasta representa um tema, lista de exercícios ou projeto específico.
