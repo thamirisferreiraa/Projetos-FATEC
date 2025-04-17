@@ -9,9 +9,7 @@ Aqui você encontrará códigos escritos como parte das disciplinas da faculdade
 ## 🛠️ Tecnologias
 
 - Linguagem C
-- Compiladores como GCC ou Code::Blocks
 - Terminal / Linha de comando
-- Git e GitHub para versionamento
 
 ## 📂 Estrutura do Repositório
 
