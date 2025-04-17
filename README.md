@@ -15,45 +15,28 @@ Aqui você encontrará códigos escritos como parte das disciplinas da faculdade
 
 ```bash
 📁 projetos-em-c-fatec/
-├── 📁 lista1/
-│   └── exercicio1.c
-├── 📁 lista2/
-│   └── media_alunos.c
-├── 📁 estruturadedados/
-│   └── pilha.c
+├── 📁 Exercicios_C/
+│   └── Cap1.c
+│   └── Cap2.c
+│   └── Cap3.c
+│   └── Cap4.c
+│   └── Cap5.c
+│   └── Cap6.c
+│   ├── 📁 1Prova/
+│   └── Desafio.c
+│   └── lsita.txt
 ├── README.md
 
 Cada pasta representa um tema, lista de exercícios ou projeto específico.
 
-🎯 Objetivos
-Praticar os conceitos aprendidos em aula.
 
-Aprender a versionar projetos usando Git e GitHub.
-
-Criar um portfólio público com minha evolução na programação em C.
-
-🚀 Como usar
-Clone este repositório:
-
-bash
-Copiar
-Editar
-git clone https://github.com/seu-usuario/projetos-em-c-fatec.git
-Acesse a pasta desejada e compile o arquivo:
-
-bash
-Copiar
-Editar
-gcc nome_do_arquivo.c -o nome_do_programa
-./nome_do_programa
 📌 Observações
 Os códigos aqui podem conter comentários explicativos e foram escritos com fins educacionais. Fique à vontade para utilizar como referência!
 
 📫 Contato
-Caso tenha interesse em conversar ou sugerir melhorias:
+Caso tenha interesse em conversar ou sugerir melhorias.
 
-GitHub: seu-usuario
-
-E-mail: seu.email@exemplo.com
+E-mail: thamiris.fdsouza@gmail.com
+celular: (13)98149-0518
 
 
